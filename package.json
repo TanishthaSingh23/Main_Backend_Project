@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
-    },
+  },
   "keywords": [
     "js",
     "and",
@@ -16,5 +16,8 @@
   "license": "ISC",
   "dependencies": {
     "nodemon": "^3.1.4"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.2"
   }
 }
